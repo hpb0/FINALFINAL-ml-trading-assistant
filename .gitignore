@@ -1,6 +1,7 @@
 # Data + model artifacts (regenerated locally, not committed)
 data_cache/
 models/
+results/
 
 # Python
 __pycache__/
